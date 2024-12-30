@@ -183,7 +183,7 @@ if df is None:
 
 # Header
 st.title("🚢 ClarkSea Index Dashboard")
-st.markdown("Interactive analysis of shipping rates from 1990 to 2024")
+st.markdown("Interactive analysis of ClarkSea Index from 1990 to 2024")
 
 # Sidebar filters
 st.sidebar.header("Filters")
